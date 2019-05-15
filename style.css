@@ -1,0 +1,69 @@
+body {
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.box {
+    background-color: white;
+    margin-left: 130px;
+    margin-right: 130px;
+}
+
+.intro {
+    text-align: center;
+
+}
+
+.main {
+    text-align: justify;
+    padding: 20px 10px 20px;
+}
+
+.main img {
+    float: left;
+    padding: 10px 40px;
+}
+.services {
+    font-size: 15px;
+    text-align: center;
+    padding: 20px 10px 20px;
+}
+
+.individual {
+  padding: 20px 60px;  
+}
+
+.clinical {
+    padding: 20px 60px;
+}
+
+.child {
+     padding: 20px 60px;
+}
+
+
+.location {
+    padding: 20px 10px 80px;
+    text-align: center;
+}
+
+.location i {
+    padding: 20px 10px; 
+}
+
+.footer {
+    border-top-style: solid;
+    padding: 20px;
+    width: 100%;
+    background-color: ;
+    color: ;
+    text-align: center;
+}
