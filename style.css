@@ -47,6 +47,13 @@ body {
      padding: 20px 60px;
 }
 
+.child img {
+
+}
+
+.price li {
+   list-style: none;
+}
 
 .location {
     padding: 20px 10px 80px;
